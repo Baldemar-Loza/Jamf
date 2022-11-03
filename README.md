@@ -1,1 +1,3 @@
 # Jamf
+
+All things Jamf
